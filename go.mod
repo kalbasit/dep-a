@@ -1,1 +1,1 @@
-module github.com/kalbasit/dep-a
+module github.com/kalbasit/dep-a/v2
